@@ -1,4 +1,4 @@
-# GCDinCPP
+# GDCinCPP
 Graphical Display Calculator made using C++ and prints corresponding Graph in an Excel sheet
 Its a small project made in C++ initially in Turbo C++.
 
